@@ -9,6 +9,7 @@ public class Main{
 		}
 			else{
 				arrayReadsTheSameBackAndFront = false;
+				break;
 				}
 		}
 		if(arrayReadsTheSameBackAndFront == true){
